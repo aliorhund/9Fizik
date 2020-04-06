@@ -24,7 +24,7 @@
 - **Mushroom**
 - **Parmesan Cheese**
 
-### ***PREPARING**
+### ***PREPARING***
 - Boil the pastas. Drain the pastas that you've boiled.
 - Add some butter onto the frying pan. When butter melt and fry, add chickens that sliced julien and mushrooms. Fry them together.
 - Add some butter onto the pan where we boiled the pasta in. After melt the butter, add cream. Stir them. When cream start to frying, add chickens, mushrooms and grated parmesan cheeses. *(If you want, you can add the curry powder now.)*
@@ -41,3 +41,6 @@
 |Serving Size (265g) 1 | 740 kcal|
 |100g | 280 kcal|
 |Total | It depends to your ingredient amount.|
+
+
+## VÜCUT KÜTLE İNDEKSİ
