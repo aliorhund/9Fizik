@@ -14,3 +14,7 @@
 - Makarnayı haşlamış olduğumuz tencereye tereyağı koyun. Eridikten sonra üstüne krema ekleyin. Karıştırın. Krema kaynamaya başladığında tavukları ekleyin ve rendelenmiş parmesan peynirlerini ekleyin. *(İsterseniz bu esnada köri baharatı ekleyebilirsiniz.)*
 - Yaklaşık 30 saniye karıştırdıktan sonra makarnaları ekleyin. 
 - Sosu makarnalar ile harmanladıktan sonra yemek hazır olacaktır. **Afiyet Olsun!**
+
+
+![ASDFE](https://user-images.githubusercontent.com/63192439/78605391-186bc480-7864-11ea-9a01-692ed27fe0eb.jpg)
+*(Görüntü Alıntıdır.)*
