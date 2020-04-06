@@ -9,4 +9,8 @@
 - **Parmesan Peyniri** *(Tercihe göre kaşar peyniri kulllanılabilir.)*
 
 ### ***YAPILIŞI***: 
-- İlk olarak makarnaları haşlayın. Haşlanan makarnaları bir kenara alın. Sonra, bir tavaya tavuk miktarınıza orantılı bir şekilde tereyağı koyun ve tarayağında julien doğradığımız tavuğu pişirin. Tavuğu da kenara alın. Makarnayı pişirip içini boşaltmış olduğumuz tencerede tereyağıni erittikten sonra krema ve parmesan perniri rendelerini koyup karıştırın.*(Eğer seviyorsanız bu noktada köri baharatı ekleyebilirsiniz.)* Krema eridiğinde ve kaynamaya başladığında içine tavuğu ekleyin Tuz ve karabiber de ekledikten sonra makarnaları tencerenin içine koyalım ve karıştın. Kremalı Tavuklu Makarna'nız hazır, **Afiyet Olsun!**
+- Makarnaları haşlayın. Haşladığınız makarnayı süzüp kenara alın.
+- Pişireceğiniz tavukla orantılı bir miktarda tereyağı koyun. Eriyip kızarmaya başladığında julien doğranmış tavukları tereyağı ile pişirin.
+- Makarnayı haşlamış olduğumuz tencereye tereyağı koyun. Eridikten sonra üstüne krema ekleyin. Karıştırın. Krema kaynamaya başladığında tavukları ekleyin ve rendelenmiş parmesan peynirlerini ekleyin. *(İsterseniz bu esnada köri baharatı ekleyebilirsiniz.)*
+- Yaklaşık 30 saniye karıştırdıktan sonra makarnaları ekleyin. 
+- Sosu makarnalar ile harmanladıktan sonra yemek hazır olacaktır. **Afiyet Olsun!**
