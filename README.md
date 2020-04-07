@@ -37,7 +37,7 @@
 *(Image is excerpt.)*
 
 |Size|Calori|
-|-|-|
+|:-:|:-:|
 |Serving Size (265g)| 740 kcal|
 |100g | 280 kcal|
 |Total|It depends to your ingredient amount.|
@@ -45,7 +45,7 @@
 
 ## VÜCUT KÜTLE İNDEKSİ
 |Aile Bireyi|Kütle(kg)|Boy Uzunluğu(m)|Vücut Kütle İndeksi(kg/m²)|Durumu|
-|-|:-:|:-:|:-:|-|
+|:-:|:-:|:-:|:-:|:-:|
 |Annem|60|1.60|24.6|Normal Kilolu|
 |Babam|100|1.78|31.5|1. Derece Obez|
 |Ablam|63|1.62|24|Normal Kilolu|
