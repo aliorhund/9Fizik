@@ -37,7 +37,7 @@
 *(Image is excerpt.)*
 
 |Size|Calori|
-|:-|-:|
+|-|-|
 |Serving Size (265g)| 740 kcal|
 |100g | 280 kcal|
 |Total|It depends to your ingredient amount.|
