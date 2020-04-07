@@ -33,8 +33,8 @@
 
 
 ![ASDFE](https://user-images.githubusercontent.com/63192439/78605391-186bc480-7864-11ea-9a01-692ed27fe0eb.jpg)
-*(Alıntıdır.)*
-*(Excerpt)*
+*(Fotoğraf alıntıdır.)*
+*(Image is excerpt.)*
 
 |Size|Calori|
 |:-|-:|
