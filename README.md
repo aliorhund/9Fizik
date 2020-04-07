@@ -36,11 +36,16 @@
 *(Alıntıdır.)*
 *(Excerpt)*
 
-| Size        | Calori        |
+|Size|Calori|
 |:-|-:|
 |Serving Size (265g)| 740 kcal|
 |100g | 280 kcal|
-|Total | It depends to your ingredient amount.|
+|Total|It depends to your ingredient amount.|
 
 
 ## VÜCUT KÜTLE İNDEKSİ
+|Aile Bireyi|Kütle(kg)|Boy Uzunluğu(m)|Vücut Kütle İndeksi(kg/m²)|Durumu|
+|:-|:-:|:-:|:-:|-:|
+|Annem||
+|100g | 280 kcal|
+|Total | It depends to your ingredient amount.|
